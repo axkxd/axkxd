@@ -8,7 +8,7 @@
 - [media_service](https://github.com/axkxd/media_service)
 
   
-### Django projects:
+### Django
 - [django-home-library](https://github.com/axkxd/django-home-library)
 - [mysite](https://github.com/axkxd/mysite)
 - [online-store](https://github.com/axkxd/online-store)
