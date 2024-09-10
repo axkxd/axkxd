@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1 align="center">🍪 hi 🍪</h1>
 
-- 📫 How to reach me: Telegram @axkxd
+- 📫 me in tg: [@axkxd](https://t.me/axkxd)
 
 
 ### FastAPI
