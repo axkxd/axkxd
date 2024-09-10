@@ -4,7 +4,7 @@
 
 
 ### FastAPI
-- [boost-skil](https://github.com/axkxd/boost-skill) (in progress)
+- [boost-skill](https://github.com/axkxd/boost-skill) (in progress)
 - [media_service](https://github.com/axkxd/media_service)
 
   
