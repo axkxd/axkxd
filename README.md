@@ -1,6 +1,6 @@
 <h1 align="center">hi 👋</h1>
 
-- 📫 me in tg: [@axkxd](https://t.me/axkxd)
+- 📫 me in tg: [@axrmxv](https://t.me/axrmxv)
 
 
 ### FastAPI
