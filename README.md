@@ -4,12 +4,12 @@
 
 
 ### FastAPI
-- [boost-skill](https://github.com/axkxd/boost-skill) (in progress)
-- [media_service](https://github.com/axkxd/media_service)
+- [boost-skill](https://github.com/axrmxv/boost-skill) (in progress)
+- [media_service](https://github.com/axrmxv/media_service)
 
   
 ### Django
-- [elearning_platform](https://github.com/axkxd/elearning_platform)
-- [online-store](https://github.com/axkxd/online-store)
-- [django-home-library](https://github.com/axkxd/django-home-library)
-- [mysite](https://github.com/axkxd/mysite)
+- [elearning_platform](https://github.com/axrmxv/elearning_platform)
+- [online-store](https://github.com/axrmxv/online-store)
+- [django-home-library](https://github.com/axrmxv/django-home-library)
+- [mysite](https://github.com/axrmxv/mysite)
