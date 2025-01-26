@@ -3,7 +3,7 @@
 - 📫 me in tg: [@axrmxv](https://t.me/axrmxv)
 
 
-  ### FastAPI
+### FastAPI
 - [media_service](https://github.com/axrmxv/media_service)
 
 ### Golang
