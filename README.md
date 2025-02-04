@@ -6,6 +6,7 @@
 #### FastAPI
 - [media_service](https://github.com/axrmxv/media_service)
 - [dummy_messenger](https://github.com/axrmxv/dummy_messenger)
+- [notes_api](https://github.com/axrmxv/notes_api)
   
 #### Django
 - [elearning_platform](https://github.com/axrmxv/elearning_platform)
